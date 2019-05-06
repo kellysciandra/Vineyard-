@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+require './lib/VINEYARD.rb'
+
+
+
+VINEYARD::CLI.new.call
