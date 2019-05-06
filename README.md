@@ -1,4 +1,4 @@
-# Vineyard-
+# Vineyard-CLI
 CLI gem that gives user last minute hotel options on Martha's Vineyard 
 
 
