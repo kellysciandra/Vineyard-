@@ -1,5 +1,8 @@
 # Vineyard-CLI
-CLI gem that gives user last minute hotel options on Martha's Vineyard 
+CLI gem that gives user last minute hotel options on Martha's Vineyard.  
+Pulls data from http://web.mvy.com/Hotels
+Gives user hotel options and provides data from those options.  
+Can open website in browser if you'd like more information.  
 
 
 # VINEYARD
